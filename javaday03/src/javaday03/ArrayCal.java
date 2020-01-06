@@ -25,7 +25,7 @@ public class ArrayCal {
 		for(int data : ar) {
 			if(data>30) {
 				cnt1 = cnt1 + 1;
-				sum1 = sum1 + 1;
+				sum1 = sum1 + data;
 			}
 		}
 		
