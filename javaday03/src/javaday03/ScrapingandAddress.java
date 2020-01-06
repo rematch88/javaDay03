@@ -1,6 +1,6 @@
 package javaday03;
 
-public class ScappingandAddress {
+public class ScrapingandAddress {
 
 	public static void main(String[] args) {
 		//첫번째 페이지 URL
