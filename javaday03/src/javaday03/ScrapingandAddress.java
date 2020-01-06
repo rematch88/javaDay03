@@ -16,7 +16,7 @@ public class ScrapingandAddress {
 		if (total % 15 != 0) {
 			pagesu = pagesu + 1;
 		}
-		for(int i=0; i<78; i=i+1) {
+		for(int i=0; i<pagesu; i=i+1) {
 			//페이지 별 기사의 시작 번호
 			int p = 15 * i + 1;
 			//기사의 URL 만들기
